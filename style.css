@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+.hero-image{
+    height: 350px;
+    background-image: linear-gradient(#020a20,#020a205d), url("hero-img.jpg");
+    background-position: top;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top-75{
+    top: 75%;
+}
+.letter-spacing{
+    letter-spacing: 6px;
+}
+.text-darkred{
+    color: darkred  ;
+}
+.outline{
+    outline: 0;
+}
+.ms-6{
+    margin-left: 100px;
+}
